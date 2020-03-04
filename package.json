@@ -1,0 +1,7 @@
+{
+  "name": "eventm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JohnDinhTech/eventm.git",
+  "license": "MIT"
+}
